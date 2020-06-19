@@ -1,6 +1,6 @@
 # Sustainable Shopping for the Environmentally Anxious
 
-<button name="Posts" onclick="http://seaweedsheep.github.io/posts">Click me</button>
+<button name="Posts" onclick="http://seaweedsheep.github.io/posts">Posts</button>
 
 ## Our Mission
 
