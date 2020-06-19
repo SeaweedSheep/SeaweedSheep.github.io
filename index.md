@@ -1,7 +1,5 @@
 # Sustainable Shopping for the Environmentally Anxious
 
-<button name="Posts" onclick="http://seaweedsheep.github.io/posts">Posts</button>
-
 ## Our Mission
 
 Our world is a beautiful place. As humans, we all want to do our part in taking care of it. Well, most of us. 
